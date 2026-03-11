@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-one/:/",
-      "/content/citisignal-one/configuration:/.helix/config.json",
-      "/content/citisignal-one/metadata:/metadata.json",
-      "/content/citisignal-one/configs:/configs.json",
-      "/content/citisignal-one/configs-stage:/configs-stage.json",
-      "/content/citisignal-one/configs-dev:/configs-dev.json",
-      "/content/citisignal-one/redirects:/redirects.json",
-      "/content/citisignal-one/placeholders:/placeholders.json",
-      "/content/citisignal-one/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-one/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products/:/images/products/"
+      "/content/johnsonmatthey/:/",
+      "/content/johnsonmatthey/configuration:/.helix/config.json",
+      "/content/cjohnsonmatthey/metadata:/metadata.json",
+      "/content/johnsonmatthey/configs:/configs.json",
+      "/content/johnsonmatthey/configs-stage:/configs-stage.json",
+      "/content/johnsonmatthey/configs-dev:/configs-dev.json",
+      "/content/johnsonmatthey/redirects:/redirects.json",
+      "/content/johnsonmatthey/placeholders:/placeholders.json",
+      "/content/johnsonmatthey/products/recommended-products:/products/recommended-products.json",
+      "/content/johnsonmatthey/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/dam/johnsonmatthey/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-one",
-      "/content/dam/citisignal/images/products/"
+      "/content/johnsonmatthey",
+      "/content/dam/johnsonmatthey/images/products/"
     ]
 }
